@@ -1,0 +1,16 @@
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\bin\Release\ircNotify.exe.config
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\bin\Release\ircNotify.exe
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\bin\Release\ircNotify.pdb
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\obj\Release\ircNotify.Properties.Resources.resources
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\obj\Release\ircNotify.csproj.GenerateResource.Cache
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\obj\Release\ircNotify.exe
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\obj\Release\ircNotify.pdb
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\obj\Release\ircNotify.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\ircNotify\ircNotify\bin\Release\ircNotify.exe.config
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\ircNotify\ircNotify\obj\Release\ircNotify.exe
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\ircNotify\ircNotify\obj\Release\ircNotify.pdb
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\ircNotify\ircNotify\bin\Release\ircNotify.exe
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\ircNotify\ircNotify\bin\Release\ircNotify.pdb
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\ircNotify\ircNotify\obj\Release\ircNotify.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\ircNotify\ircNotify\obj\Release\ircNotify.Properties.Resources.resources
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\ircNotify\ircNotify\obj\Release\ircNotify.csproj.GenerateResource.Cache

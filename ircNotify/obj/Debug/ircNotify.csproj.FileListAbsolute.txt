@@ -1,0 +1,11 @@
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\bin\Debug\ircNotify.exe.config
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\bin\Debug\ircNotify.exe
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\bin\Debug\ircNotify.pdb
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\obj\Debug\ircNotify.csprojResolveAssemblyReference.cache
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\obj\Debug\ircNotify.exe
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\obj\Debug\ircNotify.pdb
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\obj\Debug\ircNotify.Properties.Resources.resources
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\obj\Debug\ircNotify.csproj.GenerateResource.Cache
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\ircNotify\ircNotify\bin\Debug\ircNotify.exe.config
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\ircNotify\ircNotify\obj\Debug\ircNotify.exe
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\ircNotify\ircNotify\obj\Debug\ircNotify.pdb
